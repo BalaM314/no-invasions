@@ -1,0 +1,10 @@
+{
+	name: "no-invasions"
+	displayName: "No Invasions"
+	author: "BalaM314"
+	description: "Disables sectors being re-attacked."
+	version: "1.0"
+	minGameVersion: "135"
+	dependencies: [ ]
+	hidden: false
+}
