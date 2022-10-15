@@ -1,6 +1,6 @@
 {
 	name: "no-invasions"
-	displayName: "No Invasions"
+	displayName: "No Sector Re Attacks"
 	author: "BalaM314"
 	description: "Disables sectors being re-attacked."
 	version: "1.0"
