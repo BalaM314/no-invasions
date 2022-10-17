@@ -4,7 +4,7 @@
 	author: "BalaM314"
 	description: "Disables sectors being re-attacked."
 	version: "1.0"
-	minGameVersion: "135"
+	minGameVersion: "127"
 	dependencies: [ ]
 	hidden: false
 }
